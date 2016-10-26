@@ -1,11 +1,11 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 #
 # Author: Jingyu Wang <badpasta@gmail.com>
 # 
 # Environment:
-# -*- coding: utf-8 -*-
 # Python by version 2.7.
-# momoko
+# request = ['momoko', 'smalltools', 'psycopg2', 'tornado']
 
 from smalltools.Other import singleton
 from smalltools.parseConfig import Options

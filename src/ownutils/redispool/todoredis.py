@@ -4,6 +4,7 @@
 # 
 # Environment:
 # Python by version 2.7.
+# request = ['redis']
 
 from redis import ConnectionPool,Redis
 from contextlib import contextmanager
